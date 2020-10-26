@@ -36,3 +36,8 @@
 
 # VSCode
 *.code-workspace
+.vscode/
+build/
+
+# MacOS
+.DS_Store
